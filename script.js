@@ -1,3 +1,5 @@
+//direct contact of js for gsap animation
+
 let ham=document.getElementById("ham")
 let nav=document.getElementsByClassName("nav")[0]
 let navlist_second=document.getElementsByClassName("nav-list-second")[0]
